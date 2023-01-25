@@ -1,0 +1,4 @@
+github.com/garyxiong123/go-depency-A v1.0.0 h1:/cscCcd7TIRT192q3b5TXQlTM629h5XF0MZplbuCE0o=
+github.com/garyxiong123/go-depency-A v1.0.0/go.mod h1:cXg5zRxtRW/LT2KIXMqxYmQylQhgO+oqt5R8xqALaI8=
+github.com/garyxiong123/go-depency-B v0.0.0-20230124182117-f4600867b416 h1:AC0MfZEQNvS+2nLh2MDVVi3Jh3OjZSC2FYzqJZ8eTus=
+github.com/garyxiong123/go-depency-B v0.0.0-20230124182117-f4600867b416/go.mod h1:0jrxVe0jnKe2VA7gm87iggSao1RhJ8CJXP1Wfoz80/E=
